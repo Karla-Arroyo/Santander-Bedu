@@ -1,0 +1,21 @@
+h1{
+    color: aqua;
+    font-size: 45px;
+}
+
+/*selector universal*/
+
+*{
+    color: blue;
+}
+
+#palabras{
+    font-weight: 100;
+}
+.palabras{
+    font-weight: lighter;
+    }
+    .palabras2{
+        font-weight: lighter;
+        fond text-decoration: underline;
+        }
